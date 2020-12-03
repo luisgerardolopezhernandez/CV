@@ -1,5 +1,5 @@
  Eng Esp
 1 one uno
-3 tree tres
-5 five cuatro
+3 three tres
+5 five cinco
 7 seven siete
