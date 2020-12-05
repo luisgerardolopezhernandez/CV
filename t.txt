@@ -1,4 +1,5 @@
-1
-3
-5
-7
+ Eng Esp
+1 one uno
+3 three tres
+5 five cinco
+7 seven siete
